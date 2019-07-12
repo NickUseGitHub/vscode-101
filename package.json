@@ -4,7 +4,7 @@
   "description": "This repository is for practice start workspace project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs": "jsdoc2md app/*.js > README.md"
   },
   "author": "Chaiwat Tungtongsoontorn <nickt.tnick@gmail.com>",
   "license": "ISC",
@@ -13,6 +13,7 @@
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-node": "^9.1.0",
     "eslint-plugin-prettier": "^3.1.0",
+    "jsdoc-to-markdown": "^5.0.0",
     "prettier": "^1.18.2"
   }
 }
