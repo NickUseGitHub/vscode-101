@@ -1,0 +1,11 @@
+{
+  "name": "vscode-101",
+  "version": "1.0.0",
+  "description": "This repository is for practice start workspace project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaiwat Tungtongsoontorn <nickt.tnick@gmail.com>",
+  "license": "ISC"
+}
